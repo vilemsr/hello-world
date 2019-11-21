@@ -1,3 +1,3 @@
 # hello-world
 test
-somthing about anything
+something about anything
